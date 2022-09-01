@@ -165,12 +165,12 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
  <img src = " "/>
  
- ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 1</a> - 15/08 - 18/09</p>
- > <p>:white_check_mark: Página de Vagas</p>
- > <p>:white_check_mark: Informações das Vagas</p>
- > <p>:white_check_mark: Campo de Busca (sem funcionalidade)</p>
- > <p>:white_check_mark: Cabeçalho e Rodapé</p>
- > <p>:white_check_mark: Design Thinking</p>
+ ### <p>:x: <a href="https://github.com/ ">Sprint 1</a> - 15/08 - 18/09</p>
+ > <p>:x: Página de Vagas</p>
+ > <p>:x: Informações das Vagas</p>
+ > <p>:x: Campo de Busca (sem funcionalidade)</p>
+ > <p>:x: Cabeçalho e Rodapé</p>
+ > <p>:x: Design Thinking</p>
  
  ### <p>:white_check_mark:<a href="https://github.com/ ">Sprint 2</a> - 19/09 - 09/10</p>
  > <p>:white_check_mark: Página Home, Métricas, Cursos e Certificações</p>
