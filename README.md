@@ -108,7 +108,7 @@ Projeto de API - 2° Semestre de 2022 da Fatec São José dos Campos - TRACKCASH
     <td>ST</td>
      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
     <td><a href="https://github.com/ritahecht"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-    <td>EStável</td>
+    <td>Estável</td>
   </tr>
   
    <tr>
