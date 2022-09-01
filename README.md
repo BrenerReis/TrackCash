@@ -1,7 +1,6 @@
 # Projeto API - TrackCash
 Repositório destinado ao projeto de API 2° SEM
-
-# <img src = height="150" width="200" /> 
+ 
 Projeto de API - 2° Semestre de 2022 da Fatec São José dos Campos - TRACKCASH
 
 
