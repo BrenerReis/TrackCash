@@ -15,10 +15,10 @@ Projeto de API - 2° Semestre de 2022 da Fatec São José dos Campos - TRACKCASH
     <td> Contato Cliente </td>
   </tr>
   <tr>
-    <td>Regis Santos </td>
-    <td>2º ADS (Análise e Desenvolvimento de Sistemas) </td>
+    <td> Regis Santos </td>
+    <td>  2º ADS (Análise e Desenvolvimento de Sistemas) </td>
     <td> Cláudio Etelvino de Lima</td>
-    <td>Giuiano Araujo Bertoti </td>
+    <td> Giuliano Araujo Bertoti </td>
     <td> regis.santos@trackcash.com.br </td>
   </tr>
 </table>
@@ -282,6 +282,9 @@ Os mapas estratégicos são a representação gráfica do BSC que torna ainda ma
 <img src = "https://github.com/ " />
 
 > 3° Sprint:
+<img src = "https://github.com/ " />
+
+> 4° Sprint:
 <img src = "https://github.com/ " />
 
 
