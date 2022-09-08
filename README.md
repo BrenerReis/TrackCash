@@ -132,15 +132,8 @@ ST - Scrum Team
 # Projeto
 Desenvolver um CRUD para que a empresa TrackCash possa atender a demanda dos seus clientes que são vendedores de lojas onlines e fisicas, para que assim possam realizar o processo de conciliação finaceira. Criaremos uma aplicação onde os clientes deem autorização por meio de email/senha ou tokens para que os sistemas da TrackCash possam ter acesso a determinadas configurações como: apis e planilhas automatizadas, assim o sistema salvará as informações de usuários/senhas e tokens.
  
-> <a href = </a>
 
-> <a href =  </a>
- 
-# Um passo a passo do projeto em Video (3º sprint):
- 
- <p align=>
-  <img src= >
-</p>
+
  
 # Objetivo
 
