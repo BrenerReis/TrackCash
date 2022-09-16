@@ -33,7 +33,7 @@ Projeto de API - 2° Semestre de 2022 da Fatec São José dos Campos - TRACKCASH
 - <a href ="#metodologia"> Metodologia </a>
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
-- <a href ="#sprints"> Sprint </a>
+- <a href ="#sprint"> Sprints </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
 # Conhecimento exigido 
