@@ -160,7 +160,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 - 
 # Cronograma e Sprint
 
-- [Cronograma](https://github.com/ )
+- <img src="cronograma.png" alt="cronograma">
 
 > Sprint:
 
