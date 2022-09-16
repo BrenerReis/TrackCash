@@ -144,7 +144,15 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 # Requisito da Aplicação
 
 > Requisitos Funcionais:
-> Requisitos Funcionais:
+- Cadastro de canais (Marketiplace e Meios de Pagamentos)
+- Configurações de canais (Aqui é onde o cliente realiza a configuração)
+- Configurações Ativas (Utilizada para editar ou remover uma configuração)
+
+> Requisitos não Funcionais:
+- Linguagem Java (requisito Fatec)
+- Banco de Dados Relacional (requisito Fatec)
+- Documentações
+
 
 
 # Metodologia
