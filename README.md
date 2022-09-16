@@ -33,9 +33,6 @@ Projeto de API - 2° Semestre de 2022 da Fatec São José dos Campos - TRACKCASH
 - <a href ="#metodologia"> Metodologia </a>
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
-- <a href ="#design-thinking"> Design Thinking </a>
-- <a href ="#bsc---balanced-scorecard"> BSC - balanced Scorecard </a>
-- <a href ="#backlog-do-produto"> Backlog do Produto </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
 # Conhecimento exigido 
@@ -211,6 +208,14 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 # Backlog do Produto 
 <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Backlog_Produto_atualizado.png " />
+
+# Sprint
+
+- > :white_check_mark: <a href="">1º Sprint</a>
+- >:x: 2º Sprint
+- >:x: 3º Sprint
+- >:x: 4º Sprint
+
 
 # Burndown do Projeto
 > 1° Sprint:
