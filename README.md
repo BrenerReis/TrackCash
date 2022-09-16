@@ -164,7 +164,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 > Sprint:
 
- <img src = " "/>
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Cronograma%20das%20sprints_atualizado.png" alt="sprint" width="50" height="50">
  
  ### <p>:x: <a href="https://github.com/ ">Sprint 1</a> - 15/08 - 18/09</p>
  > <p>:x: Página de Vagas</p>
