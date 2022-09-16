@@ -209,75 +209,11 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 > - Discord
 
 
-
-# Design Thinking
-
-O Design Thinking significa pensar como um designer ou, por assim dizer, “pensar fora da caixa”. Trata-se de uma abordagem criativa utilizada para a resolução de problemas.
-
-- EMPATIA
-A primeira etapa dessa abordagem é considerada a fase de entendimento e compreensão de todos os elementos de um problema. Isso envolve o problema em si, o público, as outras soluções já disponíveis e a sua empresa.
-Esse processo de conhecimento é realizado por meio do mergulho no tema, identificando várias perspectivas presentes e situações particulares que fazem parte do universo do problema a ser resolvido.
-- DEFINIR
-Depois de entender todos os detalhes sobre o problema, o tema em geral, o público e as possibilidades disponíveis, são o momento de analisar os dados coletados e elaborar uma síntese para guiar o processo de criação da solução.
-Dessa forma, é na etapa de análise e síntese que acontece o planejamento das ações que precisam ser realizadas para que, ao final do projeto, a abordagem de Design Thinking tenha um resultado eficiente.
-É fundamental que cada detalhe dessa etapa esteja documentado e apresentado de uma forma visual, para que sirva de base para todo o restante do projeto.
-- IDEALIZAÇÃO
-A etapa de idealização deve servir para que todos envolvidos no projeto possam sugerir propostas de intervenção e apresentar seus insights. Um resultado eficiente, normalmente, é encontrado em projetos que conseguem desenvolver ideias de representantes de várias perspectivas sobre o problema.
-- PROTOTIPAGEM
-A criação de protótipos funciona como uma forma de testar a aderência da solução junto ao público e o resultado para a empresa.
-- TESTES
-Após o momento de prototipagem, você terá dados sobre a performance da sua solução e informações sobre os ajustes necessários. Depois de realizar as alterações necessárias, é hora de implementar o que foi planejado e colocar no mercado.
-#
-
-> :white_check_mark:<a href="https://github.com/DISPVAG/DISPVAG/blob/main/Design%20Thinking/README.md#1%C2%BA-sprint">**1º Sprint**</a>
-
-> :white_check_mark: <a href="https://github.com/DISPVAG/DISPVAG/blob/main/Design%20Thinking/README.md#2%C2%BA-sprint">**2º Sprint**</a>
-
-
-# BSC - Balanced Scorecard 
-
-A ideia central do BSC é enxergar de forma balanceada, todas as métricas de negócio de uma empresa, agrupadas em objetivos estratégicos e que tenham uma relação de causa e efeito entre elas.
-
-> Perspectivas:
-As quatro perspectivas originais do BSC são:
-- Financeira
-- Clientes
-- Processos Internos
-- Aprendizado e Crescimento
-
-> Objetivo Estratégico:
-Os Objetivos Estratégicos definem o rumo que a empresa deve seguir e mostram a resposta esperada para uma pergunta depois de um determinado período. Por exemplo: como nossa situação financeira estará no fim do ano? Ou como estará nossa relação com o mercado?
-- Analise SWOT
-
-> Indicadores chaves de desempenho
-são informações manipuladas matematicamente, de forma a auxiliar na tomada de decisão e com maior qualidade do que as informações ou dados.
-- Dashboard 
-
-> Metas
-Uma boa prática para a definição de metas é a utilização da metodologia SMART.
-- "Obter R$X MM de faturamento até o fim de 2016"
-
-> Mapas Estratégicos
-Os mapas estratégicos são a representação gráfica do BSC que torna ainda mais simples para sua empresa realizar seu processo de planejamento e acompanhamento.
-
-#
-> <a href="https://github.com/DISPVAG/DISPVAG/blob/main/BSC/README.md">**Nosso BSC**</a>
-
-
 # Backlog do Produto 
-<img src = "https://github.com/ " />
+<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Backlog_Produto_atualizado.png " />
 
 # Burndown do Projeto
 > 1° Sprint:
-<img src = "https://github.com/ " />
-
-> 2° Sprint:
-<img src = "https://github.com/ " />
-
-> 3° Sprint:
-<img src = "https://github.com/ " />
-
-> 4° Sprint:
 <img src = "https://github.com/ " />
 
 
