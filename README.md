@@ -208,7 +208,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 
 # Backlog do Produto 
-<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Backlog_Produto_atualizado.png " />
+<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/backlog.png" />
 
 # Sprint
 
