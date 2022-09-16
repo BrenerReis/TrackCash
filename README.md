@@ -212,7 +212,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 # Sprint
 
-- <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo"> Protótipo do projeto</a>
+- > :white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo"> Protótipo do projeto</a>
 
 - > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
 - >:x: 2º Sprint
