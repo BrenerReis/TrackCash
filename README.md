@@ -167,21 +167,21 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
  <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Cronograma%20das%20sprints_atualizado.png" alt="sprint" >
  
- ### <p>:x: <a href="https://github.com/ ">Sprint 1</a> - 29/08 - 18/09</p>
+ ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 1</a> - 29/08 - 18/09</p>
  > <p>:white_check_mark: Criar tela de Login</p>
  > <p>:white_check_mark: criar tela Inicial da tela de cadastro de canais </p>
  > <p>:white_check_mark: Banco de dados para o login</p>
  > <p>:white_check_mark: Banco de dados para os canais</p>
  
  
- ### <p>:white_check_mark:<a href="https://github.com/ ">Sprint 2</a> - 19/09 - 09/10</p>
+ ### <p>:x:<a href="https://github.com/ ">Sprint 2</a> - 19/09 - 09/10</p>
  > <p>:x: Criar tela de editar canais</p>
  > <p>:x: Criar tela de Visualizar todos os canais</p>
  > <p>:x: banco de dados Login e de Canais</p>
  
  
 
- ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 3</a> - 13/10 - 06/11</p>
+ ### <p>:x: <a href="https://github.com/ ">Sprint 3</a> - 13/10 - 06/11</p>
  > <p>:x: iniciar o design do sistema</p>
  > <p>:x:Criar banco de dados para Administrador </p>
  > <p>:x:Iniciar página de Administrador</p>
@@ -189,14 +189,14 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
  > <p>:x: Documentação (GITHUB) </p>
  
 
-  ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 4</a> - 07/11 - 27/11</p>
+  ### <p>:x: <a href="https://github.com/ ">Sprint 4</a> - 07/11 - 27/11</p>
  > <p>:x: Criar botões para voltar ao início e sair da sua conta</p>
  > <p>:x: finalizar página de Administrador </p>
  > <p>:x: Finalizar documentação </p>
  
 # Tecnologia Utilizadas
 
-<img src ="https://github.com/Projeto_API_TrackCash/imagens/blob/main/tecnologia.png"/>
+<img src ="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/tecnologia%20.png"/>
 
 ## 
 
