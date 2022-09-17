@@ -165,7 +165,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
  <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Cronograma%20das%20sprints_atualizado.png" alt="sprint" >
  
- ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 1</a> - 29/08 - 18/09</p>
+ ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/API%20Tela%20de%20login ">Sprint 1</a> - 29/08 - 18/09</p>
  > <p>:white_check_mark: Criar tela de Login</p>
  > <p>:white_check_mark: criar tela Inicial da tela de cadastro de canais </p>
  > <p>:white_check_mark: Banco de dados para o login</p>
