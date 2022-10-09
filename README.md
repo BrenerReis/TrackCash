@@ -173,9 +173,12 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
  
  
  ### <p>:x:<a href="https://github.com/ ">Sprint 2</a> - 19/09 - 09/10</p>
- > <p>:x: Criar tela de editar canais</p>
- > <p>:x: Criar tela de Visualizar todos os canais</p>
- > <p>:x: banco de dados Login e de Canais</p>
+ > <p>:white_check_mark: Criar tela de editar canais</p>
+ > <p>:white_check_mark: Criar tela de Visualizar todos os canais</p>
+ > <p>:white_check_mark: Canco de dados Login e de Canais</p>
+ > <p>:white_check_mark: Campo de Pesquisa</p>
+ > <p>:white_check_mark: Excluir canais</p>
+ > <p>:white_check_mark: Editar canais</p>
  
  
 
@@ -215,9 +218,9 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 - > :white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo"> Protótipo do projeto</a>
 
 - > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
-- >:x: 2º Sprint
+- >:white_check_mark: 2º Sprint
 - >:x: 3º Sprint
-- >:x: 4º Sprint
+- >:x: 4º SprintS
 
 
 # Burndown do Projeto
@@ -226,5 +229,8 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 > 1° Sprint:
 <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown.png " />
+
+> 2º Sprint:
+<img src= ""/>
 
 
