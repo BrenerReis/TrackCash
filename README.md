@@ -165,14 +165,14 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
  <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Cronograma%20das%20sprints_atualizado.png" alt="sprint" >
  
- ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/API%20Tela%20de%20login ">Sprint 1</a> - 29/08 - 18/09</p>
+ ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/1%C2%BASEM ">Sprint 1</a> - 29/08 - 18/09</p>
  > <p>:white_check_mark: Criar tela de Login</p>
  > <p>:white_check_mark: criar tela Inicial da tela de cadastro de canais </p>
  > <p>:white_check_mark: Banco de dados para o login</p>
  > <p>:white_check_mark: Banco de dados para os canais</p>
  
  
- ### <p>:x:<a href="https://github.com/ ">Sprint 2</a> - 19/09 - 09/10</p>
+ ### <p>:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/2%C2%BASEM">Sprint 2</a> - 19/09 - 09/10</p>
  > <p>:white_check_mark: Criar tela de editar canais</p>
  > <p>:white_check_mark: Criar tela de Visualizar todos os canais</p>
  > <p>:white_check_mark: Canco de dados Login e de Canais</p>
@@ -218,7 +218,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 - > :white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo"> Protótipo do projeto</a>
 
 - > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
-- >:white_check_mark: 2º Sprint
+- >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#2%C2%BA-sprint">1º Sprint</a>
 - >:x: 3º Sprint
 - >:x: 4º SprintS
 
