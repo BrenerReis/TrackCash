@@ -3,7 +3,7 @@
 
 > Protótipo da primeira sprint:
 
- <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo-1%C2%BA-e-2%C2%BA-sprint" alt="protótipo" >
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/Visualizar%20canais.jpg" alt="protótipo" >
 
  > Vídeo do atual sistema: 
 
@@ -17,7 +17,7 @@
 
 > Protótipo da segunda sprint:
 
- <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo-1%C2%BA-e-2%C2%BA-sprint" alt="protótipo" >
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/Visualizar%20canais.jpg" alt="protótipo" >
 
  > Resolvemos não mudar o sistema por agora, mas temos planos de mudança do layout em breve!
 
@@ -32,7 +32,7 @@
 
 > Protótipo da terceira sprint:
 
- <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo-3%C2%BA-e-4%C2%BA-sprint" alt="protótipo" >
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/tela1.jpeg" alt="protótipo" >
 
  > Vídeo do Sistema atual: 
 
