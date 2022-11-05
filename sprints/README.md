@@ -26,6 +26,19 @@
  <p align="">
   <img src="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/Api2ºSEM-Video.gif">
 </p>
+
+# 3º Sprint
+> Na terceira sprint focamos em deixar o sistema com mais cara de produto, dando a ele um novo layout completamente diferente e mais parecido com a empresa TrackCash. Sendo assim, realizamos novos protótipos bem mais intuitivos trazendo mais facilidade para o usuário. 
+
+> Protótipo da terceira sprint:
+
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/Visualizar%20canais.jpg" alt="protótipo" >
+
+ > Vídeo do Sistema atual: 
+
+ <p align="">
+  <img src="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/Api2ºSEM-Video.gif">
+</p>
  
 
  
