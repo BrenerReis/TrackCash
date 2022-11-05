@@ -182,7 +182,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
  
  
 
- ### <p>:x: <a href="https://github.com/ ">Sprint 3</a> - 13/10 - 06/11</p>
+ ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 3</a> - 13/10 - 06/11</p>
  > <p>:white_check_mark: iniciar o design do sistema</p>
  > <p>:white_check_mark:Criar banco de dados para Administrador </p>
  > <p>:white_check_mark:Iniciar página de Administrador</p>
@@ -219,7 +219,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 - > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
 - >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#2%C2%BA-sprint">2º Sprint</a>
-- >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#2%C2%BA-sprint">3º Sprint
+- >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#3%C2%BA-sprint">3º Sprint
 - >:x: 4º SprintS
 
 
@@ -234,6 +234,6 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 <img src= "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown 2ºSEM.png"/>
 
 > 3º Sprint:
-<img src= "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown 2ºSEM.png"/>
+<img src= ""/>
 
 
