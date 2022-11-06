@@ -182,7 +182,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
  
  
 
- ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 3</a> - 13/10 - 06/11</p>
+ ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/3%C2%BASprint">Sprint 3</a> - 13/10 - 06/11</p>
  > <p>:white_check_mark: iniciar o design do sistema</p>
  > <p>:white_check_mark:Criar banco de dados para Administrador </p>
  > <p>:white_check_mark:Iniciar página de Administrador</p>
