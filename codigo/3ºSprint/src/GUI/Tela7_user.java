@@ -66,7 +66,6 @@ public class Tela7_user extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
         setMinimumSize(new java.awt.Dimension(530, 530));
-        setPreferredSize(new java.awt.Dimension(1600, 800));
         getContentPane().setLayout(new java.awt.GridLayout(1, 0));
 
         rosa.setBackground(new java.awt.Color(255, 255, 255));
@@ -381,13 +380,34 @@ public class Tela7_user extends javax.swing.JFrame {
 
         id_canal = (int) (tabelaCanais.getModel().getValueAt(setar, 0));
         
-        
         nome = (tabelaCanais.getModel().getValueAt(setar, 1).toString());
         canal = (tabelaCanais.getModel().getValueAt(setar, 2).toString());
         tipo = (tabelaCanais.getModel().getValueAt(setar, 3).toString());
-        usuario =(tabelaCanais.getModel().getValueAt(setar, 4).toString());
-        senha = (tabelaCanais.getModel().getValueAt(setar, 5).toString());
-        token = (tabelaCanais.getModel().getValueAt(setar, 6).toString());
+        
+        
+        
+        if(tabelaCanais.getModel().getValueAt(setar, 4) != null){
+          usuario = (tabelaCanais.getModel().getValueAt(setar, 4).toString());  
+        }else{
+            usuario = "";
+        }
+        if(tabelaCanais.getModel().getValueAt(setar, 5) != null){
+          senha = (tabelaCanais.getModel().getValueAt(setar, 5).toString());  
+        }else{
+            senha = "";
+        }       
+        if(tabelaCanais.getModel().getValueAt(setar, 6) != null){
+          token = (tabelaCanais.getModel().getValueAt(setar, 6).toString());  
+        }else{
+            token = "";
+        }
+        
+        //System.out.println(nome);
+        //System.out.println(canal);
+        //System.out.println(tipo);
+        //System.out.println(usuario);
+        //System.out.println(senha);
+        //System.out.println(token);
 
         CanaisDTO objcanaisdto = new CanaisDTO();
         objcanaisdto.setId(id_canal);

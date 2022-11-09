@@ -58,7 +58,6 @@ public class Tela1 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
         setMinimumSize(new java.awt.Dimension(530, 530));
-        setResizable(false);
         getContentPane().setLayout(new java.awt.GridLayout(1, 0));
 
         Verde.setBackground(new java.awt.Color(255, 255, 255));

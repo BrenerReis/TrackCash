@@ -250,7 +250,7 @@ public class Tela5_adm extends javax.swing.JFrame {
 
         JOptionPane.showMessageDialog(null, "Cadastro feito!");
 
-        Tela7_user objhomeadmgui = new Tela7_user();
+        Tela6_adm objhomeadmgui = new Tela6_adm();
         objhomeadmgui.setVisible(true); //abri a pagina se o login for correto
 
         dispose(); //abri a pagina se o login for correto
@@ -258,7 +258,7 @@ public class Tela5_adm extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        Tela2_adm tela2 = new Tela2_adm();
+        Tela4_adm tela2 = new Tela4_adm();
         tela2.setVisible(true); //abri a pagina se o login for correto
 
         dispose();

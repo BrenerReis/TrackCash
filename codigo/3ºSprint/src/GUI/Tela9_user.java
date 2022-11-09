@@ -47,7 +47,6 @@ public class Tela9_user extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
         setMinimumSize(new java.awt.Dimension(530, 530));
-        setPreferredSize(new java.awt.Dimension(1600, 800));
         getContentPane().setLayout(new java.awt.GridLayout(1, 0));
 
         roxo.setBackground(new java.awt.Color(255, 255, 255));
@@ -73,6 +72,11 @@ public class Tela9_user extends javax.swing.JFrame {
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 28)); // NOI18N
         jButton1.setForeground(new java.awt.Color(255, 255, 255));
         jButton1.setText("Salvar Token");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
 
         rosa.setBackground(new java.awt.Color(255, 255, 255));
         rosa.setPreferredSize(new java.awt.Dimension(500, 1200));
@@ -135,6 +139,11 @@ public class Tela9_user extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void txtTokenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtTokenActionPerformed
+        
+
+    }//GEN-LAST:event_txtTokenActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         String token, tipo, nome, canal;
 
         token = txtToken.getText();
@@ -159,8 +168,7 @@ public class Tela9_user extends javax.swing.JFrame {
         objListausergui.setVisible(true);  //abri a pagina se o login for correto
 
         dispose();
-
-    }//GEN-LAST:event_txtTokenActionPerformed
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments

@@ -64,7 +64,6 @@ public class Tela6_adm extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
         setMinimumSize(new java.awt.Dimension(530, 530));
-        setPreferredSize(new java.awt.Dimension(1600, 800));
         getContentPane().setLayout(new java.awt.GridLayout(1, 0));
 
         rosa.setBackground(new java.awt.Color(255, 255, 255));
@@ -168,7 +167,7 @@ public class Tela6_adm extends javax.swing.JFrame {
                 jButton2ActionPerformed(evt);
             }
         });
-        amarel.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1340, 730, 120, -1));
+        amarel.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1340, 720, 120, -1));
 
         jButton6.setBackground(new java.awt.Color(255, 62, 0));
         jButton6.setFont(new java.awt.Font("Segoe UI Black", 1, 24)); // NOI18N
@@ -179,7 +178,7 @@ public class Tela6_adm extends javax.swing.JFrame {
                 jButton6ActionPerformed(evt);
             }
         });
-        amarel.add(jButton6, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 730, 150, -1));
+        amarel.add(jButton6, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 720, 150, -1));
 
         jLabel2.setBackground(new java.awt.Color(255, 255, 255));
         jLabel2.setFont(new java.awt.Font("Segoe UI Black", 1, 48)); // NOI18N
@@ -257,7 +256,7 @@ public class Tela6_adm extends javax.swing.JFrame {
     }//GEN-LAST:event_pesquisaKeyReleased
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-         Tela3_user tela3 = new Tela3_user();
+         Tela4_adm tela3 = new Tela4_adm();
         tela3.setVisible(true); //abri a pagina se o login for correto
 
         dispose();

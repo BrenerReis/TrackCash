@@ -84,7 +84,7 @@ public class Tela11_user extends javax.swing.JFrame {
             .addGroup(verdeLayout.createSequentialGroup()
                 .addGap(119, 119, 119)
                 .addComponent(jLabel1)
-                .addContainerGap(1010, Short.MAX_VALUE))
+                .addContainerGap(1024, Short.MAX_VALUE))
         );
         verdeLayout.setVerticalGroup(
             verdeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -196,7 +196,7 @@ public class Tela11_user extends javax.swing.JFrame {
                         .addComponent(jLabel2)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel3)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(20, Short.MAX_VALUE))
         );
         azulLayout.setVerticalGroup(
             azulLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -215,7 +215,7 @@ public class Tela11_user extends javax.swing.JFrame {
                     .addComponent(txtCanal, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(txtTipo, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(txtNome, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 137, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 136, Short.MAX_VALUE)
                 .addGroup(azulLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jButton1)
                     .addComponent(jButton2))
@@ -245,8 +245,8 @@ public class Tela11_user extends javax.swing.JFrame {
        objCanaisDTO.setTipo(tipo);
        objCanaisDTO.setCanal(canal);
         
-       if (tipo == "Meio de Pagamento") { 
-            Tela10_user objloginusergui = new Tela10_user(objCanaisDTO);
+       if (tipo == "Meio de pagamento") { 
+            Tela9_user objloginusergui = new Tela9_user(objCanaisDTO);
             objloginusergui.setVisible(true);
             dispose();
           

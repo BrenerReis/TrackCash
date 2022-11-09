@@ -51,6 +51,7 @@ public class Tela4_adm extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
         jLabel7 = new javax.swing.JLabel();
         jLabel8 = new javax.swing.JLabel();
+        jButton3 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
@@ -91,7 +92,7 @@ public class Tela4_adm extends javax.swing.JFrame {
         jLabel5.setBackground(new java.awt.Color(255, 255, 255));
         jLabel5.setFont(new java.awt.Font("Segoe UI Historic", 1, 36)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(45, 18, 75));
-        jLabel5.setText("Cadastre, edite e visualize seus canais nesta plataforma");
+        jLabel5.setText("Cadastre e visualize seus canais nesta plataforma");
 
         jButton1.setBackground(new java.awt.Color(255, 62, 0));
         jButton1.setFont(new java.awt.Font("Segoe UI Black", 1, 36)); // NOI18N
@@ -116,6 +117,16 @@ public class Tela4_adm extends javax.swing.JFrame {
             }
         });
 
+        jButton3.setBackground(new java.awt.Color(255, 62, 0));
+        jButton3.setFont(new java.awt.Font("Segoe UI Black", 1, 24)); // NOI18N
+        jButton3.setForeground(new java.awt.Color(255, 255, 255));
+        jButton3.setText("VOLTAR");
+        jButton3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton3ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout blueLayout = new javax.swing.GroupLayout(blue);
         blue.setLayout(blueLayout);
         blueLayout.setHorizontalGroup(
@@ -123,27 +134,34 @@ public class Tela4_adm extends javax.swing.JFrame {
             .addGroup(blueLayout.createSequentialGroup()
                 .addGroup(blueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(blueLayout.createSequentialGroup()
+                        .addGap(566, 566, 566)
+                        .addComponent(jLabel7))
+                    .addGroup(blueLayout.createSequentialGroup()
                         .addGap(183, 183, 183)
                         .addGroup(blueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(blueLayout.createSequentialGroup()
-                                .addComponent(jButton1)
-                                .addGap(67, 67, 67)
-                                .addComponent(jLabel6)
-                                .addGap(68, 68, 68)
-                                .addComponent(jButton2))
-                            .addComponent(jLabel5)
                             .addGroup(blueLayout.createSequentialGroup()
                                 .addComponent(jLabel2)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jLabel3)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jLabel4)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 678, Short.MAX_VALUE)
-                                .addComponent(jLabel8))))
-                    .addGroup(blueLayout.createSequentialGroup()
-                        .addGap(566, 566, 566)
-                        .addComponent(jLabel7)))
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 933, Short.MAX_VALUE)
+                                .addComponent(jLabel8))
+                            .addGroup(blueLayout.createSequentialGroup()
+                                .addGroup(blueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                    .addGroup(blueLayout.createSequentialGroup()
+                                        .addComponent(jButton1)
+                                        .addGap(67, 67, 67)
+                                        .addComponent(jLabel6)
+                                        .addGap(68, 68, 68)
+                                        .addComponent(jButton2))
+                                    .addComponent(jLabel5))
+                                .addGap(0, 0, Short.MAX_VALUE)))))
                 .addGap(150, 150, 150))
+            .addGroup(blueLayout.createSequentialGroup()
+                .addGap(54, 54, 54)
+                .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 150, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         blueLayout.setVerticalGroup(
             blueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -162,7 +180,9 @@ public class Tela4_adm extends javax.swing.JFrame {
                     .addGroup(blueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                         .addComponent(jButton1)
                         .addComponent(jLabel6)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 276, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 200, Short.MAX_VALUE)
+                .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(26, 26, 26)
                 .addComponent(jLabel7)
                 .addContainerGap())
         );
@@ -175,18 +195,26 @@ public class Tela4_adm extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        Tela11_user tela11 = new Tela11_user();
+        Tela5_adm tela11 = new Tela5_adm();
         tela11.setVisible(true); //abri a pagina se o login for correto
                 
         dispose();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-       Tela7_user tela7 = new Tela7_user();
+       Tela6_adm tela7 = new Tela6_adm();
        tela7.setVisible(true); //abri a pagina se o login for correto
                 
         dispose();
     }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
+        Tela2_adm tela2 = new Tela2_adm();
+        tela2.setVisible(true); //abri a pagina se o login for correto
+
+        dispose();
+// TODO add your handling code here:
+    }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -230,6 +258,7 @@ public class Tela4_adm extends javax.swing.JFrame {
     private javax.swing.JPanel blue;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
+    private javax.swing.JButton jButton3;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;

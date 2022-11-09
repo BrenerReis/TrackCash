@@ -46,29 +46,29 @@ public class Tela2_adm extends javax.swing.JFrame {
         botaoEntrar = new javax.swing.JButton();
         roxo = new javax.swing.JPanel();
         jLabel5 = new javax.swing.JLabel();
+        jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
         setMinimumSize(new java.awt.Dimension(530, 530));
         setPreferredSize(new java.awt.Dimension(1600, 800));
-        setResizable(false);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/220 × 116.png"))); // NOI18N
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 109, -1, -1));
+        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 40, -1, -1));
 
         jLabel3.setFont(new java.awt.Font("Segoe UI Black", 1, 48)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(68, 18, 69));
         jLabel3.setText("Senha Administrador");
-        jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 361, -1, -1));
+        jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 300, -1, -1));
 
         jLabel4.setFont(new java.awt.Font("Segoe UI Historic", 1, 24)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(68, 18, 69));
         jLabel4.setText("Insira sua senha ");
-        jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 433, -1, 40));
+        jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 380, -1, 40));
 
         txtSenha.setBackground(new java.awt.Color(204, 204, 204));
         txtSenha.addActionListener(new java.awt.event.ActionListener() {
@@ -76,7 +76,7 @@ public class Tela2_adm extends javax.swing.JFrame {
                 txtSenhaActionPerformed(evt);
             }
         });
-        jPanel1.add(txtSenha, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 491, 527, 49));
+        jPanel1.add(txtSenha, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 430, 527, 49));
 
         botaoEntrar.setBackground(new java.awt.Color(255, 62, 0));
         botaoEntrar.setFont(new java.awt.Font("Segoe UI Black", 1, 24)); // NOI18N
@@ -87,7 +87,7 @@ public class Tela2_adm extends javax.swing.JFrame {
                 botaoEntrarActionPerformed(evt);
             }
         });
-        jPanel1.add(botaoEntrar, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 579, 150, 50));
+        jPanel1.add(botaoEntrar, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 500, 150, 50));
 
         roxo.setBackground(new java.awt.Color(255, 255, 255));
         roxo.setMaximumSize(new java.awt.Dimension(800, 900));
@@ -113,6 +113,17 @@ public class Tela2_adm extends javax.swing.JFrame {
         );
 
         jPanel1.add(roxo, new org.netbeans.lib.awtextra.AbsoluteConstraints(910, 0, 800, -1));
+
+        jButton1.setBackground(new java.awt.Color(255, 62, 0));
+        jButton1.setFont(new java.awt.Font("Segoe UI Black", 1, 24)); // NOI18N
+        jButton1.setForeground(new java.awt.Color(255, 255, 255));
+        jButton1.setText("VOLTAR");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+        jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 690, 150, 50));
 
         getContentPane().add(jPanel1, java.awt.BorderLayout.CENTER);
 
@@ -153,6 +164,13 @@ public class Tela2_adm extends javax.swing.JFrame {
     
 
     }//GEN-LAST:event_botaoEntrarActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        Tela1 tela2 = new Tela1();
+        tela2.setVisible(true); //abri a pagina se o login for correto
+
+        dispose();        // TODO add your handling code here:
+    }//GEN-LAST:event_jButton1ActionPerformed
 
 /**
  * @param args the command line arguments
@@ -204,6 +222,7 @@ public static void main(String args[]) {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton botaoEntrar;
+    private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
