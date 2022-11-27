@@ -188,10 +188,12 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
  > <p>:white_check_mark: Documentação (GITHUB) </p>
  
 
-  ### <p>:x: <a href="https://github.com/ ">Sprint 4</a> - 07/11 - 27/11</p>
- > <p>:x: Criar botões para voltar ao início e sair da sua conta</p>
- > <p>:x: finalizar página de Administrador </p>
- > <p>:x: Finalizar documentação </p>
+  ### <p>:white_check_mark: <a href="https://github.com/ ">Sprint 4</a> - 07/11 - 27/11</p>
+ > <p>:white_check_mark: Criar botões para voltar ao início e sair da sua conta</p>
+ > <p>:white_check_mark: finalizar página de Administrador </p>
+ > <p>:white_check_mark: Finalizar documentação </p>
+ > <p>:white_check_mark: Ajustes das tabelas de ADM e Usuário </p>
+ > <p>:white_check_mark: Pesquisas com filtros</p>
  
 # Tecnologia Utilizadas
 
@@ -200,12 +202,13 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 ## 
 
 
-> - JAVA Desktop
-> - MySQL
-> - Canvas
-> - Pacote Office
-> - GitHub
-> - Discord
+> - JAVA Desktop (Linguagem de programação)
+> - MySQL (Banco de Dados)
+> - Canvas (Protótipo, interface)
+> - Pacote Office (Documentação)
+> - Git (Versionamento)
+> - GitHub (Repositório)
+> - Discord (Comunicação do grupo)
 
 
 # Backlog do Produto 
@@ -218,7 +221,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 - > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
 - >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#2%C2%BA-sprint">2º Sprint</a>
 - >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#3%C2%BA-sprint">3º Sprint
-- >:x: 4º SprintS
+- >:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#4%C2%BA-sprint"> 4º SprintS
 
 
 # Burndown do Projeto
@@ -233,5 +236,10 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 > 3º Sprint:
 <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndow3.png " />
+
+> 4º Sprint:
+<img src = "" />
+
+
 
 

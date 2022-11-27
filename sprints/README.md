@@ -39,6 +39,20 @@
  <p align="">
   <img src="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/API-3%C2%BA-Sprint_REC%20(1).gif">
 </p>
+
+
+# 4º Sprint
+> Na quarta sprint focamos em realizar os ajustes necessários para fechermos o projeto. Sendo assim, realizamos mudanças na lógica utulizada para cadastro de novos tipos de canais dentro das funcionalidades do administrado, ajustes do banco de dados e acrescentamos um filtro para as pesquisas nas tabelas.
+
+> Protótipo da quarta sprint:
+
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/tela1.jpeg" alt="protótipo" >
+
+ > Vídeo do Sistema atual: 
+
+ <p align="">
+  <img src="">
+</p>
  
 
  
