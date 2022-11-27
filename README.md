@@ -221,7 +221,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 - > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
 - >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#2%C2%BA-sprint">2º Sprint</a>
 - >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#3%C2%BA-sprint">3º Sprint
-- >:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#4%C2%BA-sprint"> 4º SprintS
+- >:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#4%C2%BA-sprint"> 4º Sprint
 
 
 # Burndown do Projeto
