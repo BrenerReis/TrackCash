@@ -51,7 +51,7 @@
  > Vídeo do Sistema atual: 
 
  <p align="">
-  <img src="">
+  <img src="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/prototipo/API-4%C2%BASprint_REC.gif">
 </p>
  
 
