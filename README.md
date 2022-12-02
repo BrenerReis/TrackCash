@@ -235,12 +235,8 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 <img src= "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown%202%C2%BASprint.png"/>
 
 > 3º Sprint:
-<<<<<<< HEAD
-<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown%203%C2%BASprint.png" />
-=======
 <img src =  "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndow%203%C2%BASprint.png"/>
->>>>>>> 3d428f4c5ae23bfb8833d008a2df6e0414753c30
-
+ 
 > 4º Sprint:
 <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown%204%C2%BASprint.png" />
 
